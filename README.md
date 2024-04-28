@@ -1,5 +1,4 @@
 # Natural Language Processing
-### Text
 ##### Tokenizing and Padding text
 Tokenization is the process of breaking down a text into smaller units, such as words or subwords. In NLP, tokens are the basic building blocks for further processing. Understand the importance of tokenization and how it helps in text preprocessing.
 
