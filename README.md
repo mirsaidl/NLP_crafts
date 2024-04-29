@@ -9,6 +9,6 @@ In the 'Tokenizer Folder' I learned how to tokenize words and sentences using te
 ##### Embedding and Classifying text
 Embedding and classifying IMDb movie reviews involves preprocessing text data, embedding it into numerical representations, and building a classification model. Preprocessing includes tokenization and padding. Embedding converts text to vectors.
 ###### Tensorflow Embedding Projector
-![alt text](Embedding/embedding.png)
+![!\[alt text\](Embedding/embedding.png)](<NLP text/Embedding/embedding.png>)
 ### Audio
 
